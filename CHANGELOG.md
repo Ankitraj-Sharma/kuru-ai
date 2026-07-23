@@ -5,3 +5,4 @@
 - `2026-07-22T09:13:34`: feat: implement base entrypoint main.py
 - `2026-07-22T20:13:06`: feat: add termux integration shell script kuru.sh
 - `2026-07-23T07:12:38`: feat: setup speech recognition interface with termux-speech-to-text
+- `2026-07-23T18:12:10`: feat: configure termux-tts-speak audio synthesizer

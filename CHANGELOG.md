@@ -12,3 +12,4 @@
 - `2026-07-25T14:10:18`: feat: add support for gemini-3.5-flash-lite low latency model
 - `2026-07-26T01:09:50`: feat: add model fallback cascade for reliability
 - `2026-07-26T12:09:22`: feat: introduce SQLite database for persistent user context
+- `2026-07-26T23:08:54`: feat: create user_facts schema for category key value storage

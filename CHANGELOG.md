@@ -11,3 +11,4 @@
 - `2026-07-25T03:10:46`: fix: handle HTTP 503 and network timeouts during API calls
 - `2026-07-25T14:10:18`: feat: add support for gemini-3.5-flash-lite low latency model
 - `2026-07-26T01:09:50`: feat: add model fallback cascade for reliability
+- `2026-07-26T12:09:22`: feat: introduce SQLite database for persistent user context

@@ -13,3 +13,4 @@
 - `2026-07-26T01:09:50`: feat: add model fallback cascade for reliability
 - `2026-07-26T12:09:22`: feat: introduce SQLite database for persistent user context
 - `2026-07-26T23:08:54`: feat: create user_facts schema for category key value storage
+- `2026-07-27T10:08:26`: feat: implement get_memory_context query with limit sorting

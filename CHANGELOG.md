@@ -16,3 +16,4 @@
 - `2026-07-27T10:08:26`: feat: implement get_memory_context query with limit sorting
 - `2026-07-27T21:07:58`: feat: implement auto-learning fact extraction from user conversations
 - `2026-07-28T08:07:30`: feat: add dynamic time-aware greeting generator
+- `2026-07-28T19:07:02`: feat: add morning greeting handler (05:00 - 12:00)

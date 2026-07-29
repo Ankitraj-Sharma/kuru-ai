@@ -18,3 +18,4 @@
 - `2026-07-28T08:07:30`: feat: add dynamic time-aware greeting generator
 - `2026-07-28T19:07:02`: feat: add morning greeting handler (05:00 - 12:00)
 - `2026-07-29T06:06:34`: feat: add afternoon greeting handler (12:00 - 17:00)
+- `2026-07-29T17:06:06`: feat: add evening greeting handler (17:00 - 22:00)

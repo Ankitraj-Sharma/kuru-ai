@@ -23,3 +23,4 @@
 - `2026-07-30T15:05:10`: feat: add multi-turn conversation history buffer
 - `2026-07-31T02:04:42`: feat: include recent turns in Gemini system prompt
 - `2026-07-31T13:04:14`: feat: add Android intent automation for YouTube search
+- `2026-08-01T00:03:46`: feat: add Android intent for dynamic alarm setting

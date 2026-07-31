@@ -22,3 +22,4 @@
 - `2026-07-30T04:05:38`: feat: add late-night companion greeting handler (22:00 - 05:00)
 - `2026-07-30T15:05:10`: feat: add multi-turn conversation history buffer
 - `2026-07-31T02:04:42`: feat: include recent turns in Gemini system prompt
+- `2026-07-31T13:04:14`: feat: add Android intent automation for YouTube search

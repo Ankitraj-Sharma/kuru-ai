@@ -27,3 +27,4 @@
 - `2026-08-01T11:03:18`: feat: parse hour and minute values from alarm parameters
 - `2026-08-01T22:02:50`: feat: add countdown timer trigger via SET_TIMER intent
 - `2026-08-02T09:02:22`: feat: implement WhatsApp intent routing with URL encoding
+- `2026-08-02T20:01:54`: feat: add Spotify artist and song search intent

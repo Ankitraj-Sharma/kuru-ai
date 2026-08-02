@@ -26,3 +26,4 @@
 - `2026-08-01T00:03:46`: feat: add Android intent for dynamic alarm setting
 - `2026-08-01T11:03:18`: feat: parse hour and minute values from alarm parameters
 - `2026-08-01T22:02:50`: feat: add countdown timer trigger via SET_TIMER intent
+- `2026-08-02T09:02:22`: feat: implement WhatsApp intent routing with URL encoding

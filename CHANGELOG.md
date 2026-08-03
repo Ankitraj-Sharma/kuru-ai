@@ -29,3 +29,4 @@
 - `2026-08-02T09:02:22`: feat: implement WhatsApp intent routing with URL encoding
 - `2026-08-02T20:01:54`: feat: add Spotify artist and song search intent
 - `2026-08-03T07:01:26`: feat: add Google Maps turn-by-turn navigation intent
+- `2026-08-03T18:00:58`: feat: integrate termux-torch for hardware flashlight control

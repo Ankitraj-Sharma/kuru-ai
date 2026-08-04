@@ -32,3 +32,4 @@
 - `2026-08-03T18:00:58`: feat: integrate termux-torch for hardware flashlight control
 - `2026-08-04T05:00:30`: feat: integrate termux-battery-status for battery health check
 - `2026-08-04T16:00:02`: feat: integrate termux-telephony-call for phone calls
+- `2026-08-05T02:59:34`: feat: add graceful exit detection on keywords bye and khatam

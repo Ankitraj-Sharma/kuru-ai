@@ -34,3 +34,4 @@
 - `2026-08-04T16:00:02`: feat: integrate termux-telephony-call for phone calls
 - `2026-08-05T02:59:34`: feat: add graceful exit detection on keywords bye and khatam
 - `2026-08-05T13:59:06`: feat: implement clean_for_speech to strip markdown and emojis
+- `2026-08-06T00:58:38`: feat: add Edge-TTS SwaraNeural neural voice support

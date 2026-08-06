@@ -36,3 +36,4 @@
 - `2026-08-05T13:59:06`: feat: implement clean_for_speech to strip markdown and emojis
 - `2026-08-06T00:58:38`: feat: add Edge-TTS SwaraNeural neural voice support
 - `2026-08-06T11:58:10`: perf: reduce microphone timeout and idle detection
+- `2026-08-06T22:57:42`: test: add microphone calibration script calibrate_mic.py

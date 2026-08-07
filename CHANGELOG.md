@@ -38,3 +38,4 @@
 - `2026-08-06T11:58:10`: perf: reduce microphone timeout and idle detection
 - `2026-08-06T22:57:42`: test: add microphone calibration script calibrate_mic.py
 - `2026-08-07T09:57:14`: test: add voice sample tester sample_voices.py
+- `2026-08-07T20:56:46`: test: add WhatsApp automation test script test_wa_send.py

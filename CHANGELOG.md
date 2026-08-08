@@ -40,3 +40,4 @@
 - `2026-08-07T09:57:14`: test: add voice sample tester sample_voices.py
 - `2026-08-07T20:56:46`: test: add WhatsApp automation test script test_wa_send.py
 - `2026-08-08T07:56:18`: test: add voice activity detection tester test_vad.py
+- `2026-08-08T18:55:50`: test: add decision engine test test_decision.py

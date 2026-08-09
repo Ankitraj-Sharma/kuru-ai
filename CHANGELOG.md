@@ -41,3 +41,4 @@
 - `2026-08-07T20:56:46`: test: add WhatsApp automation test script test_wa_send.py
 - `2026-08-08T07:56:18`: test: add voice activity detection tester test_vad.py
 - `2026-08-08T18:55:50`: test: add decision engine test test_decision.py
+- `2026-08-09T05:55:22`: docs: create comprehensive README with architecture diagram

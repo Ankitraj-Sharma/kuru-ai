@@ -46,3 +46,4 @@
 - `2026-08-10T03:54:26`: perf: improve voice synthesizer handling (iteration 1)
 - `2026-08-10T14:53:58`: fix: improve stt listener handling (iteration 1)
 - `2026-08-11T01:53:30`: test: improve action router handling (iteration 1)
+- `2026-08-11T12:53:02`: chore: improve gemini client handling (iteration 1)

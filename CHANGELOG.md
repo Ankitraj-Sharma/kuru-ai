@@ -59,3 +59,4 @@
 - `2026-08-16T02:48:22`: docs: improve youtube intent handling (iteration 1)
 - `2026-08-16T13:47:54`: feat: improve prompt template handling (iteration 1)
 - `2026-08-17T00:47:26`: refactor: improve context pruning handling (iteration 1)
+- `2026-08-17T11:46:58`: perf: improve audio cache handling (iteration 1)

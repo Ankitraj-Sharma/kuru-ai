@@ -66,3 +66,4 @@
 - `2026-08-19T07:45:06`: style: improve voice synthesizer handling (iteration 2)
 - `2026-08-19T18:44:38`: docs: improve stt listener handling (iteration 2)
 - `2026-08-20T05:44:10`: feat: improve action router handling (iteration 2)
+- `2026-08-20T16:43:42`: refactor: improve gemini client handling (iteration 2)

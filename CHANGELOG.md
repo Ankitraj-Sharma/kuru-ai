@@ -65,3 +65,4 @@
 - `2026-08-18T20:45:34`: chore: improve memory engine handling (iteration 2)
 - `2026-08-19T07:45:06`: style: improve voice synthesizer handling (iteration 2)
 - `2026-08-19T18:44:38`: docs: improve stt listener handling (iteration 2)
+- `2026-08-20T05:44:10`: feat: improve action router handling (iteration 2)

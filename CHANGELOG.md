@@ -77,3 +77,4 @@
 - `2026-08-24T08:39:58`: refactor: improve whatsapp handler handling (iteration 2)
 - `2026-08-24T19:39:30`: perf: improve spotify integration handling (iteration 2)
 - `2026-08-25T06:39:02`: fix: improve youtube intent handling (iteration 2)
+- `2026-08-25T17:38:34`: test: improve prompt template handling (iteration 2)

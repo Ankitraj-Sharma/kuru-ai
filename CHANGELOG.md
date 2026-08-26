@@ -80,3 +80,4 @@
 - `2026-08-25T17:38:34`: test: improve prompt template handling (iteration 2)
 - `2026-08-26T04:38:06`: chore: improve context pruning handling (iteration 2)
 - `2026-08-26T15:37:38`: style: improve audio cache handling (iteration 2)
+- `2026-08-27T02:37:10`: docs: improve tts fallback handling (iteration 2)

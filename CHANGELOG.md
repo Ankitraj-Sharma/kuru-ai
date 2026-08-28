@@ -84,3 +84,4 @@
 - `2026-08-27T13:36:42`: feat: improve status checker handling (iteration 2)
 - `2026-08-28T00:36:14`: refactor: improve memory engine handling (iteration 3)
 - `2026-08-28T11:35:46`: perf: improve voice synthesizer handling (iteration 3)
+- `2026-08-28T22:35:18`: fix: improve stt listener handling (iteration 3)

@@ -85,3 +85,4 @@
 - `2026-08-28T00:36:14`: refactor: improve memory engine handling (iteration 3)
 - `2026-08-28T11:35:46`: perf: improve voice synthesizer handling (iteration 3)
 - `2026-08-28T22:35:18`: fix: improve stt listener handling (iteration 3)
+- `2026-08-29T09:34:50`: test: improve action router handling (iteration 3)

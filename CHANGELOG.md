@@ -101,3 +101,4 @@
 - `2026-09-04T08:28:46`: refactor: improve context pruning handling (iteration 3)
 - `2026-09-04T19:28:18`: perf: improve audio cache handling (iteration 3)
 - `2026-09-05T06:27:50`: fix: improve tts fallback handling (iteration 3)
+- `2026-09-05T17:27:22`: test: improve status checker handling (iteration 3)

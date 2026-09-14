@@ -121,3 +121,4 @@
 - `2026-09-13T12:19:26`: chore: improve context pruning handling (iteration 4)
 - `2026-09-13T23:18:58`: style: improve audio cache handling (iteration 4)
 - `2026-09-14T10:18:30`: docs: improve tts fallback handling (iteration 4)
+- `2026-09-14T21:18:02`: feat: improve status checker handling (iteration 4)

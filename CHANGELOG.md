@@ -177,3 +177,4 @@
 - `2026-10-09T03:53:18`: chore: improve whatsapp handler handling (iteration 7)
 - `2026-10-09T14:52:50`: style: improve spotify integration handling (iteration 7)
 - `2026-10-10T01:52:22`: docs: improve youtube intent handling (iteration 7)
+- `2026-10-10T12:51:54`: feat: improve prompt template handling (iteration 7)

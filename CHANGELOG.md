@@ -180,3 +180,4 @@
 - `2026-10-10T12:51:54`: feat: improve prompt template handling (iteration 7)
 - `2026-10-10T23:51:26`: refactor: improve context pruning handling (iteration 7)
 - `2026-10-11T10:50:58`: perf: improve audio cache handling (iteration 7)
+- `2026-10-11T21:50:30`: fix: improve tts fallback handling (iteration 7)

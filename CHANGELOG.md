@@ -182,3 +182,4 @@
 - `2026-10-11T10:50:58`: perf: improve audio cache handling (iteration 7)
 - `2026-10-11T21:50:30`: fix: improve tts fallback handling (iteration 7)
 - `2026-10-12T08:50:02`: test: improve status checker handling (iteration 7)
+- `2026-10-12T19:49:34`: chore: improve memory engine handling (iteration 8)

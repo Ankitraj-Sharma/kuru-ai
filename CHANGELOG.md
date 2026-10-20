@@ -200,3 +200,4 @@
 - `2026-10-19T16:42:34`: test: improve prompt template handling (iteration 8)
 - `2026-10-20T03:42:06`: chore: improve context pruning handling (iteration 8)
 - `2026-10-20T14:41:38`: style: improve audio cache handling (iteration 8)
+- `2026-10-21T01:41:10`: docs: improve tts fallback handling (iteration 8)

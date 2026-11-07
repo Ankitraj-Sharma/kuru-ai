@@ -239,3 +239,4 @@
 - `2026-11-06T13:24:22`: fix: improve youtube intent handling (iteration 10)
 - `2026-11-07T00:23:54`: test: improve prompt template handling (iteration 10)
 - `2026-11-07T11:23:26`: chore: improve context pruning handling (iteration 10)
+- `2026-11-07T22:22:58`: style: improve audio cache handling (iteration 10)

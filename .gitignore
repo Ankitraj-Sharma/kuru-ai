@@ -8,6 +8,7 @@
 *.apk
 *.log
 *.txt
+!requirements.txt
 *.vbs
 *.bat
 .env
